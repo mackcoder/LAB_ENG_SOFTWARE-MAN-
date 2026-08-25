@@ -1,6 +1,6 @@
 # Nome: Gabriel Ouvirstappen
 
-<img src="image.png" alt="alt text" width="400">
+### Mudar info
 
 ## Apelido e Desenho
   - Estudante
