@@ -1,20 +1,25 @@
-# Nome: Gabriel Ouvirstappen
+# Nome: Pedro Ushizaky
 
 ### Mudar info
 
 ## Apelido e Desenho
   - Estudante
   - Piloto de corridas ilegais
-  - "Eu quero ajudar minha família através da minha habilidade de piloto." 
+  - "Eu quero ajudar minha família através da minha habilidade de piloto."
+
+  - Jovem adulto e recém noivo
+  - Está assinando muitos contratos por causas do casamento e da nova vida
+  - "Estou animado para conquistar e comprar tudo o que sempre quis."
 
 ## Perfil
-  - Caracas, Venezuela;
-  - Estado civil: solteiro;
-  - Idade: 16 anos;
-  - Apaixonado por corrida e restauração de carros.
+  - Brasil, Sorocaba
+  - Estado civil: noivando;
+  - Idade: 23 anos;
+  - Apaixonado pela noiva.
 
 ## Comportamento
   <div align="justify">
+    Pedro é um jovem que está planejando se casar com sua noiva. 
   Gabriel é um piloto apaixonado, por influência do pai, que adora F1. Desde pequeno participou de corridas ilegais para poder sustentar sua família. Ele e seu pai já foram enganados várias vezes por contratos que enganavam-os e resultava na perda dinheiro.  
   </div>
 
