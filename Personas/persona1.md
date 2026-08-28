@@ -1,18 +1,20 @@
 # Nome: Marta da Silva
 
-## Apelido e Desenho:
-  Mãe solteira de 2 menina;
-  Faxineira;
-  "Eu amo minhas filhas e desejo dar oportunidades que eu não tive para elas." 
+## Apelido e Desenho
+  - Mãe solteira de duas meninas
+  - Faxineira e trabalhadora informal
+  - "Eu amo minhas filhas e desejo dar oportunidades que eu não tive para elas."
 
-## Perfil:
-  Interior de Sorocaba;
-  Estado civil: divorciada;
-  Idade: 49 anos;
-  Adora baladas.
+## Perfil
+  - Interior de Sorocaba, Brasil;
+  - Estado civil: divorciada;
+  - Idade: 49 anos;
+  - Adora baladas.
 
-## Comportamento:
-  Ariovalda começou a trabalhar 2 empregos informais com o sonho de adquirir uma moto, que a ajude a levá-la ao local de trabalho ou possíveis futuros trabalhos. Ela sente muita dificuldade de formalizar negócios, como trabalho formal ou aquisição de um produto via contrato.  
+## Comportamento
+  <div align="justify">
+    Ariovalda começou a trabalhar em dois empregos informais com o sonho de adquirir uma moto que a ajude a chegar aos locais de trabalho e facilite a busca por novas oportunidades. Ela sente muita dificuldade para formalizar negócios e compreender documentos, principalmente contratos relacionados a trabalhos, compras e financiamentos. Por isso, muitas vezes fica insegura ao tomar decisões que envolvem compromissos financeiros.
+  </div>
 
-## Potenciais Soluções:
-  Um aplicativo que a ajude a entender e interpretar contratos e realizer cálculos de viabilidade dada a posição atual da pessoa.. 
+## Potenciais Soluções
+  Um aplicativo que a auxilie na interpretação de contratos, explicando termos complexos em uma linguagem simples e destacando valores, prazos, multas e possíveis riscos. A aplicação também poderia realizar cálculos de viabilidade financeira, considerando a situação atual da usuária, ajudando-a a tomar decisões mais seguras.
