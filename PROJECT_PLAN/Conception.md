@@ -17,14 +17,20 @@ O projeto visa auxiliar analfabetos funcionais na interpretação de contratos c
 | **Mitigação** | Anonimizar dados automaticamente antes de enviar à API e exclusão imediata; implementar um validador de imagem no app via OCR; interface intuitiva com alertas visuais por níveis de risco com linguagem acessível.|
 
 ## ⫶☰ Glossário
-### Termos técnicos
+### Termos técnicos e de IA
+- IA: Inteligência Artificial
+- Latência: Tempo de resposta entre envio da requisição e resposta da IA.
+- OCR (Optical Character Recognition): Tecnologia de reconhecimento óptico de caracteres usada para converter fotos ou arquivos PDF digitalizados de contratos em texto editável e legível por máquina
 
-## 📜 Lista de riscos + plano de Gestão dos riscos
+### Termos do domínio Jurídico/Contratual
+-   LGPD(Lei Geral de Proteção de Dados): Legislação brasileira que regula o tratamento e privacidade de dados pessoais físicss e digitais.    
 
-## 🛠️ Protótipos e provas de conceitos
+    ## 📜 Lista de riscos + plano de Gestão dos riscos
 
-## 💡 Plano de iteração
+    ## 🛠️ Protótipos e provas de conceitos
 
-## 🛠️ Plano de desenvolvimento de software
+    ## 💡 Plano de iteração
 
-## 🛠️ Pasta de desenvolvimento
+    ## 🛠️ Plano de desenvolvimento de software
+
+    ## 🛠️ Pasta de desenvolvimento
