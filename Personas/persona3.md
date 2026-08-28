@@ -1,27 +1,20 @@
-# Nome: Pedro Ushizaky
-
-### Mudar info
+# Nome: Pedrinho Akira
 
 ## Apelido e Desenho
-  - Estudante
-  - Piloto de corridas ilegais
-  - "Eu quero ajudar minha família através da minha habilidade de piloto."
-
   - Jovem adulto e recém noivo
   - Está assinando muitos contratos por causas do casamento e da nova vida
   - "Estou animado para conquistar e comprar tudo o que sempre quis."
 
 ## Perfil
-  - Brasil, Sorocaba
+  - Brasil, Sorocaba;
   - Estado civil: noivando;
   - Idade: 23 anos;
   - Apaixonado pela noiva.
 
 ## Comportamento
   <div align="justify">
-    Pedro é um jovem que está planejando se casar com sua noiva. 
-  Gabriel é um piloto apaixonado, por influência do pai, que adora F1. Desde pequeno participou de corridas ilegais para poder sustentar sua família. Ele e seu pai já foram enganados várias vezes por contratos que enganavam-os e resultava na perda dinheiro.  
+    Pedro é um jovem que está planejando se casar com sua noiva. Com o casamento se aproximando, ele precisa assinar diversos documentos, como contratos relacionados ao local da cerimônia, serviços, profissionais que trabalharão no evento, além do contrato de compra da casa onde pretende morar com sua futura esposa. No entanto, sua rotina intensa de trabalho e os preparativos para o futuro fazem com que ele não tenha tempo suficiente para ler e analisar cada contrato com a devida atenção.
   </div>
 
 ## Potenciais Soluções
-  Um aplicativo que nos auxiliasse na interpretação de contratos e possa responder nossas perguntas. Isso resolve nossa vida pra gente subir de nível sem se queimar lá na frente.
+  Um aplicativo que interpreta, resume e analisa contratos, destacando dúvidas, incoerências e possíveis riscos. Assim, o usuário entende melhor o que está assinando e evita problemas no futuro.
