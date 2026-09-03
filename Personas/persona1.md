@@ -13,7 +13,7 @@
 
 ## Comportamento
   <div align="justify">
-    Ariovalda começou a trabalhar em dois empregos informais com o sonho de adquirir uma moto que a ajude a chegar aos locais de trabalho e facilite a busca por novas oportunidades. Ela sente muita dificuldade para formalizar negócios e compreender documentos, principalmente contratos relacionados a trabalhos, compras e financiamentos. Por isso, muitas vezes fica insegura ao tomar decisões que envolvem compromissos financeiros.
+    Marta começou a trabalhar em dois empregos informais com o sonho de adquirir uma moto que a ajude a chegar aos locais de trabalho e facilite a busca por novas oportunidades. Ela sente muita dificuldade para formalizar negócios e compreender documentos, principalmente contratos relacionados a trabalhos, compras e financiamentos. Por isso, muitas vezes fica insegura ao tomar decisões que envolvem compromissos financeiros.
   </div>
 
 ## Potenciais Soluções
