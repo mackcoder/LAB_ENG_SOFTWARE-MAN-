@@ -1,7 +1,9 @@
 ID | Questionamento | Resolução
 ---| ---------------|----------
-Q1 | Como o usuário pode fazer o login/sign in? | Email e senha, através da interface facilitada.
-Q2 | O usuário consegue criar novos chats de documetos facilmente? | Sim, basta ir na página inicial e clicar no chat vazio na parte superior da tela.
-Q3 | O envio de arquivos a um chat é intuitivo? | Sim, um ícone clicável facilita o entendimento de onde clicar para adicionar arquivos, enviar e tirar fotos. 
-Q4 | A IA tem contextos maiores sobre o usuário? Como situação financeira, estado civil, dividas, etc... | Depende. A IA pode fazer perguntas ao usuário para adicionar dados e informações relevantes para dado contrato. Essas informações podem ser salvas para conversas e chats futuros
-Q5 | O usuário pode ver chats e documentos antigos? | Sim, todos os chats ficam salvos em suas respectivas categorias. Basta selecionar a categoria e procurar o chat/documento que interessar.
+Q1 | Como garantir um cadastro rápido sem afastar usuários de baixa instrução digital? | Permitir autenticação em 1 clique via Google, além do e-mail e senha básicos.
+Q2 | Como tornar evidente o ponto de partida para iniciar uma nova análise de documento? | Posicionar um botão de ação na tela inicial com o rótulo claro "Nova Análise" ou "Novo Contrato".
+Q3 | Como deixar evidente para o usuário a forma de anexar ou fotografar um documento? | Inserir um botão de anexo acompanhado de texto e ícone padrão de câmera/grampo, abrindo um menu direto com opções claras: Tirar foto agora ou Escolher PDF/Arquivo. 
+Q4 | Como a IA obtém dados pessoais e financeiros do usuário sem gerar desconfiança ou atrito inicial? | Coletar dados aos poucos: a IA solicita informações específicas apenas durante a conversa, quando o tipo de contrato exigir uma avaliação financeira, salvando o contexto para consultas posteriores.
+Q5 | Como o usuário localiza e revisita contratos já analisados de forma rápida? | Sim, todos os chats ficam salvos em suas respectivas categorias. Basta selecionar a categoria e procurar o chat/documento que interessar.
+Q6 | Como orientar o usuário a fotografar o contrato sem cortar partes do texto? | Exibir uma máscara visual (retângulo guia) sobre a tela da câmera e uma tela de confirmação simples ("A imagem ficou legível?") ou A própria IA faz a checagem de legibilidade |
+
