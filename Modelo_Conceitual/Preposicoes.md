@@ -1,6 +1,6 @@
 - Usuário abre aplicativo
 - Usuário realiza sign up
-- Usuário fornece informações para seu perfil(salário, idade, etc...)
+- Usuário fornece informações para seu perfil (salário, idade, etc...)
 - Se já possui conta, ele faz o login
 - Usuário abre ou cria uma conversa com a IA
 - Usuário envia documentos e imagens
@@ -10,4 +10,4 @@
 - Usuário responde por texto, múltipla escolha ou voz
 - IA analisa dados e compara com o documento
 - IA da o feedback para o usuário
-- Usuário pode fazer mais perguntas(voz ou texto)
+- Usuário pode fazer mais perguntas (voz ou texto)
