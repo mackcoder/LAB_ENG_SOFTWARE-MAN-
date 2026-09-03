@@ -1,4 +1,4 @@
-# Preposições Genéricas
+# Proposições Genéricas
 
 - Usuário abre aplicativo
 - Usuário realiza sign up
@@ -18,7 +18,7 @@
 ## Cenário
 Marta trabalha em dois empregos informais e precisa comprar uma moto financiada para se locomover com agilidade e buscar novas oportunidades de trabalho. Ela recebeu a minuta do contrato de financiamento, mas tem receio de termos jurídicos complexos, taxas escondidas e juros abusivos.
 
-## Preposições
+## Proposições
 - Marta abre o aplicativo
 - Marta realiza o sign up
 - Marta fornece informações para seu perfil (salário, idade, etc...)
@@ -34,7 +34,7 @@ Marta trabalha em dois empregos informais e precisa comprar uma moto financiada 
 ## Cenário
 Gabriel está em negociação para fechar uma parceria com uma oficina mecânica e potenciais patrocinadores de corridas. Por já ter tido experiências ruins no passado (onde ele e o pai perderam dinheiro por contratos enganosos), ele precisa analisar rigorosamente o documento antes de firmar o acordo.
 
-## Preposições
+## Proposições
 - Gabriel abre o aplicativo
 - Gabriel realiza o sign up
 - Gabriel fornece informações para seu perfil (salário, idade, etc...)
@@ -50,7 +50,7 @@ Gabriel está em negociação para fechar uma parceria com uma oficina mecânica
 ## Cenário
 Pedrinho está planejando o casamento e comprando o imóvel onde vai morar com a noiva. Com a agenda sobrecarregada, acumulou dezenas de contratos (espaço, buffet, fotografia, decoração, promessa de compra e venda) e não dispõe de horas para ler cada documento minuciosamente.
 
-## Preposições
+## Proposições
 - Pedro abre o aplicativo
 - Pedro realiza o sign up
 - Pedro fornece informações para ser perfil (salário, idade, etc...)
