@@ -26,11 +26,26 @@ O projeto visa auxiliar analfabetos funcionais na interpretação de contratos c
 -   LGPD(Lei Geral de Proteção de Dados): Legislação brasileira que regula o tratamento e privacidade de dados pessoais físicss e digitais.    
 
     ## 📜 Lista de riscos + plano de Gestão dos riscos
+    ### RISCOS
+    - Leitura/Análise imprecisa do agente ao escanear fotos de contratos com baixa qualidade
+    - Falta de detalhes pode levar a categorização incorreta dos tipos de contratos
+    - O agente pode acabar perguntando repetidamente por detalhes sobre o usuário, nos quais já poderia estar armazenados em seu banco de dados.    
 
+    ### GESTÃO DOS RISCOS
+    - O agente irá procurar ou pedir detalhes adicionais sobre o contrato para poder categorizar comm precisão o tipo do contrato (residencial, comércio, trabalho). 
+    - Implementação de uma estrutura de dados para armazenar informações de usuários.
+    - 
+    
     ## 🛠️ Protótipos e provas de conceitos
+    ![Protótipo da aplicação web com Agente AI](prototipo_app_web_agente_ai.jpg)
 
     ## 💡 Plano de iteração
-
+    1. upload de contrato, extração de texto (OCR) e exibição do conteúdo extraído, validando se a captura funciona de forma confiável antes de integrar a camada de IA. // Colocar em bullet points
+    
     ## 🛠️ Plano de desenvolvimento de software
+    -
+    -
+    -
+    -
 
     ## 🛠️ Pasta de desenvolvimento
