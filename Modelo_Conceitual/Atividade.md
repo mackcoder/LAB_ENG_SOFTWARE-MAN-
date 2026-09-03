@@ -2,7 +2,13 @@
 
 ---
 
-## Estrutura
+## 1. GOMS
+* **Goals (Metas):** 
+* **Operators (Operadores - OP):** 
+* **Methods (Métodos):** 
+* **Selection Rules (Regras de Seleção):** 
+
+## 2. Estrutura
 
 ### **GOAL 0: Analisar um contrato físico no aplicativo**
 
@@ -11,9 +17,9 @@
 * `OP`: Olhar para a tela inicial do aplicativo
 * `OP`: Localizar visualmente o botão "Nova Análise"
 * `OP`: Tocar no botão "Nova Análise"
-* `OP`: Decidir a forma de entrada do documento 
+* `OP`: Decidir a forma de entrada do documento *(Regra de Seleção)*
 
-#### **Entrada de Documento:**
+#### **Regra de Seleção para Entrada de Documento:**
 * **Se** o usuário possui o contrato em arquivo digital (PDF/DOCX):
   * **Use METHOD:** Upload de Arquivo
 * **Se** o usuário possui apenas as folhas impressas do documento:
@@ -32,9 +38,9 @@
 ### **GOAL 2: Obter interpretação do contrato**
 * `OP`: Aguardar processamento do OCR (Optical Character Recognition) e análise da IA 
 * `OP`: Visualizar a análise estruturada (Valores, Prazos e Riscos)
-* `OP`: Escolher o formato de consumo das informações 
+* `OP`: Escolher o formato de consumo das informações *(Regra de Seleção)* 
 
-#### **Consumo de Informação:**
+#### **Regra de Seleção para Consumo de Informação:**
 * **Se** o usuário prefere resumo em áudio ou tem baixa instrução para leitura:
   * **Use METHOD:** Ouvir Resumo em Áudio
 * **Se** o usuário prefere ler o resumo:
