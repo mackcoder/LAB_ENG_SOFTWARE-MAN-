@@ -1,12 +1,13 @@
 - Usuário abre aplicativo
-- Usuário realiza login/sign up
+- Usuário realiza sign up
+- Usuário fornece informações para seu perfil(salário, idade, etc...)
+- Se já possui conta, ele faz o login
 - Usuário abre ou cria uma conversa com a IA
-- Usuário seleciona o tipo de contrato
 - Usuário envia documentos e imagens
+- O aplicativo cria uma aba na tela inicial para o tipo de contrato(caso não exista um contrato desse tipo ainda)
 - Usuário adiciona contexto ou perguntas por texto ou por voz (opcional)
 - IA analisa os arquivos enviados
-- IA busca informações do usuário ou faz perguntas
 - Usuário responde por texto, múltipla escolha ou voz
 - IA analisa dados e compara com o documento
 - IA da o feedback para o usuário
-- Usuário pode fazer mais perguntas
+- Usuário pode fazer mais perguntas(voz ou texto)
