@@ -51,3 +51,13 @@ Gabriel está em negociação para fechar uma parceria com uma oficina mecânica
 Pedrinho está planejando o casamento e comprando o imóvel onde vai morar com a noiva. Com a agenda sobrecarregada, acumulou dezenas de contratos (espaço, buffet, fotografia, decoração, promessa de compra e venda) e não dispõe de horas para ler cada documento minuciosamente.
 
 ## Preposições
+- Pedro abre o aplicativo
+- Pedro realiza o sign up
+- Pedro fornece informações para ser perfil (salário, idade, etc...)
+- Pedro cria uma conversa com IA (Agente de IA)
+- Pedro envia documentos e imagens para a IA
+- O aplicativo cria uma aba na tela inicial para contratos do tipo Imovel
+- Ia analisa dados e arquivos
+- Ia fornece um feedback em relação ao contrato, se possui inconsistências ou problemas
+- Pedro pode adicionar contexto ou fazer perguntas por texto ou voz (opcional)
+  
