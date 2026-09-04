@@ -9,7 +9,7 @@ cumprimento da meta
 ## Requisitos funcionais
 
  ID  | Tópico | Requisito
------|----------
+-----|----------|---------
 RF01 | Autenticação de Usuário | O sistema deve permitir que o usuário crie uma conta e realize login via e-mail e senha ou autenticação em um clique (ex: Google).
 RF02 | Categorização Automática | O sistema deve classificar o documento em categorias predefinidas (ex: Veículos, Imóveis, Serviços) e exibi-lo na tela inicial.
 RF03 | Pré-visualização e Validação | O sistema deve exibir uma tela de confirmação após a captura da foto para que o usuário valide visualmente se o texto está nítido antes do processamento.
