@@ -24,10 +24,11 @@ RF09 | Preferências Consideradas | O perfil do usuário e suas preferências de
 
   ID  | Tópico | Requisito
 ------|--------| ---------
-RNF01 | Segurança | Os arquivos e contratos enviados devem ser mantidos em segurança contra acessos não autorizados
-RNF02 | Segurança | Os dados das conversas não devem contaminar a base de dados da IA
+RNF01 | Segurança | O sistema deve solicitar dados sensíveis de forma contextual e permitir que o usuário opte por não salvar essas informações em conversas futuras.
+RNF02 | Disponibilidade | A aplicação web deve ser hospedada em plataforma com deploy contínuo acessível publicamente via protocolo HTTPS.
 RNF03 | Privacidade | O sistema deve garantir a segurança e anonimato dos dados de seus usuários
-RNF04 | Usabilidade | O usuário não deve precisar de conhecimentos técnicos para entendimento do relatório da IA
+RNF04 | Usabilidade | O sistema deve traduzir termos jurídicos complexos para linguagem acessível, priorizando frases curtas e diretas.
+RNF05 | Acessibilidade | A interface deve manter contraste adequado de cores nos textos, fontes legíveis e botões com área de toque suficiente.
 
 ## Usabilidade
 
