@@ -32,10 +32,30 @@ RNF05 | Acessibilidade | A interface deve manter contraste adequado de cores nos
 
 ## Usabilidade
 
+  ID  | Tópico | Requisito
+------|--------| ---------
+RU01 | Facilidade de Uso | Um usuário novato com baixa instrução deve conseguir concluir o envio de um documento sem necessidade de tutoriais ou manuais.
+RU02 | Linguagem Centrada no Usuário | A interface e o assistente devem substituir o vocabulário jurídico por linguagem simples e direta do cotidiano.
+RU03 | Prevenção de Erros | A interface deve permitir refazer a captura da imagem com um único clique caso a foto fique escura ou cortada.
+RU04 | Eficiência de Interação | O caminho da tela inicial até a abertura da câmera para uma nova análise deve ser de poucos toques
+RU05 | Acessibilidade Visual | Elementos clicáveis devem ter área considerável para toque e contraste adequado de cores.
+
 ## Confiabilidade
+
+  ID  | Tópico | Requisito
+------|--------| ---------
+RC01 | Integridade de Sessão e Dados | O sistema deve impedir a perda do texto digitado no chat ou da imagem enviada caso a conexão oscile durante a requisição.
+RC02 | 
 
 ## Desempenho
 
+  ID  | Tópico | Requisito
+------|--------| ---------
+RD01
+
 ## Facilidade de Suporte
 
+  ID  | Tópico | Requisito
+------|--------| ---------
+RS01
 
