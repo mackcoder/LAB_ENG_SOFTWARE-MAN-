@@ -8,18 +8,17 @@ cumprimento da meta
 
 ## Requisitos funcionais
 
- ID  | Requisito
+ ID  | Tópico | Requisito
 -----|----------
-RF01 | O usuário deve ser capaz de realizar login
-RF02 | O sistema deve exibir conversas e contratos anteriormente analisados
-RF03 | O usuário deve ser capaz de criar uma nova conversa sobre contratos
-RF04 | Deve-se ser aceito o envio de contratos em PDF, Word, png, jpg, ou qualquer outro formato relevante
-RF05 | O aplicativo deve ser capaz de enviar esses arquivos para uma IA especializada
-RF06 | A IA deve ser capaz de ler, transcrever, e entender todas as partes de um contrato
-RF07 | No chat sobre o contrato, deve ser exibido o relatório da IA
-RF08 | O relatório da IA deve conter avaliação geral da coesão, análises de risco
-RF09 | O perfil do usuário e suas preferências devem ser levadas em consideração pela IA
-RF10 | A IA deve realizar perguntas de múltipla escolha e/ou dissertativas para melhor entendimento do perfil do usuário e contexto do contrato
+RF01 | Autenticação de Usuário | O sistema deve permitir que o usuário crie uma conta e realize login via e-mail e senha ou autenticação em um clique (ex: Google).
+RF02 | Categorização Automática | O sistema deve classificar o documento em categorias predefinidas (ex: Veículos, Imóveis, Serviços) e exibi-lo na tela inicial.
+RF03 | Pré-visualização e Validação | O sistema deve exibir uma tela de confirmação após a captura da foto para que o usuário valide visualmente se o texto está nítido antes do processamento.
+RF04 | Captura e Envio de Documentos | O sistema deve permitir o upload de contratos em formato PDF ou a captura direta de páginas físicas através da câmera do dispositivo.
+RF05 | Extração de Texto (OCR) | O sistema deve extrair automaticamente os textos contidos nas imagens ou arquivos enviados.
+RF06 | Chat Interativo sobre o Contrato | O sistema deve permitir que o usuário faça perguntas específicas sobre o documento analisado, aceitando entradas via texto ou áudio.
+RF07 | Síntese por Texto | O sistema deve disponibilizar um botão para narrar em áudio os principais pontos e alertas identificados no contrato.
+RF08 | Exibição de resumo estruturado | O sistema deve apresentar de forma organizada a análise do contrato em blocos como (Valores, Cláusulas Críticas, Parcelas)
+RF09 | Preferências Consideradas | O perfil do usuário e suas preferências devem ser levadas em consideração pela IA
 
 ## Requisitos não funcionais
 
