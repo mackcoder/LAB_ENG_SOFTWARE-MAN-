@@ -1,5 +1,4 @@
 # 📋Levantamento de Requisitos
-![plano](image-1.png)
 ## Instruções:
 <div align="justify">
 O objetivo é identificar o problema, propor elementos da solução, negociar diferentes abordagens e
