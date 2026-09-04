@@ -37,10 +37,13 @@ O projeto visa auxiliar analfabetos funcionais na interpretação de contratos c
     - 
     
     ## 🛠️ Protótipos e provas de conceitos
-    ![Protótipo da aplicação web com Agente AI](prototipo_app_web_agente_ai.jpg)
+    
 
     ## 💡 Plano de iteração
-    1. upload de contrato, extração de texto (OCR) e exibição do conteúdo extraído, validando se a captura funciona de forma confiável antes de integrar a camada de IA. // Colocar em bullet points
+    1. Upload de `Contrato`
+    2. Validação da captura ()
+    3. Extração de texto (OCR)
+    4. Exibição do conteúdo extraído, validando se a captura funciona de forma confiável antes de integrar a camada de IA. // Colocar em bullet points
     
     ## 🛠️ Plano de desenvolvimento de software
     -
@@ -49,3 +52,4 @@ O projeto visa auxiliar analfabetos funcionais na interpretação de contratos c
     -
 
     ## 🛠️ Pasta de desenvolvimento
+
